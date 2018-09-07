@@ -4,8 +4,8 @@
 
 ### I just have modified something for my own way. You can feel free to use it.
 
-##View:
+## View:
 
 ![alt text](assets/img/admin-starter.png)
 
-A project of [Khandaker Akash](http://khandakerakash.xyz/).
+> A project of [Khandaker Akash](http://khandakerakash.xyz/).
